@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @22Theresecodes
-- 👀 I’m interested in HTML CSS and Javascript
-- 🌱 I’m currently learning HTML CSS AND JAVAscript...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in node js 
+- 🌱ask me about javascript, express, react, backend and frontend development
 - 📫 How to reach me theresaogu@gmail.com
 
 <!---
